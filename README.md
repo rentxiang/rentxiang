@@ -1,4 +1,4 @@
-# Hi there!🙋
+### Hi there!🙋
 * I consider myself a promising Software Developer located in Bay Area.
 * I’m currently pursuing Master of Science in Information Systems at Northeastern University.
 
