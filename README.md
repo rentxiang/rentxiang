@@ -4,5 +4,5 @@
 
 ### Tech Stack:🧐
 * Languages: Java, Javascript, SQL, Python
-* Frameworks: React, Node.js, Bootstrap, Spring Boot, jQuery, Express.js
+* Frameworks & Techs: React, Node.js, Bootstrap, Spring Boot, jQuery, Express.js
 * Developer Tools: Git, Docker, Visual Studio Code, MySQL, SpringToolSuite4, IntelliJ, Eclipse, Atom, Anaconda
