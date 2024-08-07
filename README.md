@@ -1,6 +1,6 @@
 ## Hi there!🙋
 * I consider myself a promising Software Developer located in Bay Area.
-* I’m currently pursuing Master of Science in Information Systems at Northeastern University.
+* Master of Science in Information Systems at Northeastern University.
 
 ### Tech Stack:🧐
 * Languages: Java, Javascript, SQL, Python
